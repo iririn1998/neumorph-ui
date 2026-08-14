@@ -5,7 +5,7 @@
     "noEmit": true,
     "baseUrl": ".",
     "paths": {
-      "nuance-ui": ["../../packages/core/src"]
+      "neumorph-ui": ["../../packages/core/src"]
     }
   },
   "include": ["stories/**/*", ".storybook/**/*"],

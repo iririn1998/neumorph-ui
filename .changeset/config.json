@@ -7,5 +7,5 @@
   "access": "public",
   "baseBranch": "main",
   "updateInternalDependencies": "patch",
-  "ignore": ["@nuance-ui/storybook"]
+  "ignore": ["@neumorph-ui/storybook"]
 }

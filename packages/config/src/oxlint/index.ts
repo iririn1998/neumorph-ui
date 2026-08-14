@@ -1,7 +1,7 @@
 import { defineConfig, type OxlintConfig } from 'oxlint';
 
 /**
- * Base oxlint configuration for nuance-ui packages.
+ * Base oxlint configuration for neumorph-ui packages.
  */
 const baseConfig: OxlintConfig = defineConfig({
   plugins: ['typescript', 'react', 'import'],

@@ -1,4 +1,4 @@
-# nuance-ui
+# neumorph-ui
 
 Mantine をベースにしたニューモーフィズムスタイルの React UI コンポーネントライブラリ。
 

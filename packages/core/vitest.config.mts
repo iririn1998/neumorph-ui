@@ -1,4 +1,4 @@
-import { createVitestConfig } from "@nuance-ui/config/vitest";
+import { createVitestConfig } from "@neumorph-ui/config/vitest";
 
 export default createVitestConfig({
   test: {

@@ -1,9 +1,9 @@
 import { defineConfig } from "oxlint";
-import baseConfig from "@nuance-ui/config/oxlint";
+import baseConfig from "@neumorph-ui/config/oxlint";
 
 /**
  * oxlint configuration for packages/core.
- * Extends the shared base config from @nuance-ui/config.
+ * Extends the shared base config from @neumorph-ui/config.
  */
 const config = defineConfig({
   ...baseConfig,

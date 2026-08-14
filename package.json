@@ -1,10 +1,10 @@
 {
-  "name": "nuance-ui-monorepo",
+  "name": "neumorph-ui-monorepo",
   "private": true,
   "scripts": {
-    "build": "pnpm --filter nuance-ui build",
-    "dev": "pnpm --filter @nuance-ui/storybook dev",
-    "test": "pnpm --filter nuance-ui test",
+    "build": "pnpm --filter neumorph-ui build",
+    "dev": "pnpm --filter @neumorph-ui/storybook dev",
+    "test": "pnpm --filter neumorph-ui test",
     "changeset": "changeset",
     "version-packages": "changeset version",
     "release": "pnpm build && changeset publish"

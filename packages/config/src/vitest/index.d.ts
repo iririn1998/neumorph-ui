@@ -1,7 +1,7 @@
 import type { UserConfig } from 'vitest/config';
 
 /**
- * Base vitest configuration for nuance-ui packages.
+ * Base vitest configuration for neumorph-ui packages.
  */
 export declare const baseConfig: UserConfig;
 

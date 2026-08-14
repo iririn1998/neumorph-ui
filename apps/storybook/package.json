@@ -1,5 +1,5 @@
 {
-  "name": "@nuance-ui/storybook",
+  "name": "@neumorph-ui/storybook",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -9,7 +9,7 @@
   "devDependencies": {
     "@mantine/core": "catalog:",
     "@mantine/hooks": "catalog:",
-    "@nuance-ui/config": "workspace:*",
+    "@neumorph-ui/config": "workspace:*",
     "@storybook/addon-essentials": "catalog:",
     "@storybook/addon-interactions": "catalog:",
     "@storybook/addon-links": "catalog:",
@@ -19,7 +19,7 @@
     "@storybook/react-vite": "catalog:",
     "@types/react": "catalog:",
     "@types/react-dom": "catalog:",
-    "nuance-ui": "workspace:*",
+    "neumorph-ui": "workspace:*",
     "react": "catalog:",
     "react-dom": "catalog:",
     "storybook": "catalog:",

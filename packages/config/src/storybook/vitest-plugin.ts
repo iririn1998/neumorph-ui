@@ -19,7 +19,7 @@ export interface StorybookVitestProjectOptions {
  * @example
  * ```ts
  * // vitest.storybook.config.mts
- * import { createStorybookVitestProject } from "@nuance-ui/config/storybook/vitest-plugin";
+ * import { createStorybookVitestProject } from "@neumorph-ui/config/storybook/vitest-plugin";
  * import path from "path";
  *
  * export default createStorybookVitestProject({

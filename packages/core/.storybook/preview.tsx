@@ -1,4 +1,4 @@
-import { createPreviewConfig } from "@nuance-ui/config/storybook/preview";
+import { createPreviewConfig } from "@neumorph-ui/config/storybook/preview";
 import { neumorphismTheme } from "../src";
 
 export default {

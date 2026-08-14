@@ -9,7 +9,7 @@ export interface MainConfigOptions {
    */
   stories?: string[];
   /**
-   * `nuance-ui` エイリアスが解決するパス（絶対パス）
+   * `neumorph-ui` エイリアスが解決するパス（絶対パス）
    * @default path.resolve(dirname, "../../../packages/core/src")
    */
   coreSourcePath?: string;
@@ -42,7 +42,7 @@ export function createMainConfig(
       return mergeConfig(config, {
         resolve: {
           alias: {
-            "nuance-ui": coreSourcePath,
+            "neumorph-ui": coreSourcePath,
           },
         },
       });

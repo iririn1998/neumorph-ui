@@ -1,4 +1,4 @@
-import { createStorybookVitestProject } from "@nuance-ui/config/storybook/vitest-plugin";
+import { createStorybookVitestProject } from "@neumorph-ui/config/storybook/vitest-plugin";
 import { defineConfig } from "vitest/config";
 import path from "path";
 
@@ -21,7 +21,7 @@ export default defineConfig({
   plugins: plugins as any,
   resolve: {
     alias: {
-      "nuance-ui": path.resolve(__dirname, "src"),
+      "neumorph-ui": path.resolve(__dirname, "src"),
     },
   },
   test,
